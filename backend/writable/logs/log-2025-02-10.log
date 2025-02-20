@@ -1,0 +1,508 @@
+WARNING - 2025-02-10 05:57:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 05:57:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 06:45:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 06:45:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-10 06:45:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-02-10 06:45:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 06:45:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 10:40:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 10:40:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-10 10:41:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-02-10 13:36:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 13:36:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-10 14:05:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-10 14:33:03 --> Received user_id: 
+INFO - 2025-02-10 14:35:15 --> Received user_id: 
+INFO - 2025-02-10 14:36:13 --> Received user_id: 
+CRITICAL - 2025-02-10 14:38:50 --> ErrorException: Undefined variable $session_id
+[Method: POST, Route: logout]
+in APPPATH\Controllers\RegistrationController.php on line 299.
+ 1 APPPATH\Controllers\RegistrationController.php(299): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $session_id', 'C:\\xampp\\htdocs\\ci4\\backend\\app\\Controllers\\RegistrationController.php', 299)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\RegistrationController->logout()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrationController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-10 14:40:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-10 14:41:00 --> Login user_id: 40939009e5d152328bc8bcf3c17aeff51b0cbcac1dfc7e5d15a0301509020ae7
+INFO - 2025-02-10 14:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-10 14:43:45 --> Login user_id: a25d2e35bbceb7448b9671e8ac99940243e35226f18ecc7504ab4f944d417d4c
+INFO - 2025-02-10 14:44:09 --> Login user_id: 2cce2c8cb241d8711f7da2b01dce52ea32847f0298204ec21804461514411ce8
+INFO - 2025-02-10 14:44:09 --> Login user_id1: 2cce2c8cb241d8711f7da2b01dce52ea32847f0298204ec21804461514411ce8
+CRITICAL - 2025-02-10 14:44:43 --> ErrorException: Undefined variable $storeSession_id
+[Method: GET, Route: checkAuth]
+in APPPATH\Controllers\RegistrationController.php on line 317.
+ 1 APPPATH\Controllers\RegistrationController.php(317): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $storeSession_id', 'C:\\xampp\\htdocs\\ci4\\backend\\app\\Controllers\\RegistrationController.php', 317)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\RegistrationController->checkAuth()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrationController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-10 14:48:19 --> Received user_id: 
+INFO - 2025-02-10 14:51:27 --> Login user_id: 51d4044a353891d490f542ea6909dbf8f136340963b6e28a04f2defc9a3f1921
+INFO - 2025-02-10 14:51:27 --> Login user_id1: 51d4044a353891d490f542ea6909dbf8f136340963b6e28a04f2defc9a3f1921
+INFO - 2025-02-10 14:51:27 --> Login user_id2: 51d4044a353891d490f542ea6909dbf8f136340963b6e28a04f2defc9a3f1921
+INFO - 2025-02-10 14:52:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-10 14:53:54 --> Logout user_id: 
+INFO - 2025-02-10 14:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-10 14:55:48 --> Login user_id: f9d8984ae7b1e4521be4276092f039f5b605144e7113ed263508dbd9d412a9fc
+INFO - 2025-02-10 14:56:43 --> Login user_id: 4c62c7bb5182641e5f62a5d3d40557ef689c606a50202c3beb497f0c9e59a370
+INFO - 2025-02-10 14:56:52 --> Login user_id: ae35caec94249928a33631aef0cb00ee8d7b2c82d4869b8b249feee3914b9c5a
+INFO - 2025-02-10 14:59:52 --> Login user_id: cca1666f080fdc7203287a6b557d59eb38570e6cc14a0dadcb63c8912806838f
+INFO - 2025-02-10 14:59:52 --> Login user_id1: cca1666f080fdc7203287a6b557d59eb38570e6cc14a0dadcb63c8912806838f
+INFO - 2025-02-10 14:59:52 --> Login user_id2: cca1666f080fdc7203287a6b557d59eb38570e6cc14a0dadcb63c8912806838f
+INFO - 2025-02-10 15:00:21 --> Received user_id: 
+INFO - 2025-02-10 15:00:59 --> Logout user_id: 
+INFO - 2025-02-10 15:00:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-10 15:06:39 --> Login user_id: 5600b2ee8dda3e1e6dc6ddbbd09716d72caefe794b787035d4783dddabeac089
+INFO - 2025-02-10 15:06:39 --> Login user_id1: 5600b2ee8dda3e1e6dc6ddbbd09716d72caefe794b787035d4783dddabeac089
+INFO - 2025-02-10 15:06:39 --> Login user_id2: 5600b2ee8dda3e1e6dc6ddbbd09716d72caefe794b787035d4783dddabeac089
+INFO - 2025-02-10 15:06:53 --> Logout user_id: 
+INFO - 2025-02-10 15:06:53 --> Logout session_id: Not Found
+INFO - 2025-02-10 15:06:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-10 15:10:23 --> Login user_id: d826eb474a9eca79a557a368dd6506595547eeb83226782dfdb1d13bfd7cd8a0
+INFO - 2025-02-10 15:10:23 --> Login user_id1: d826eb474a9eca79a557a368dd6506595547eeb83226782dfdb1d13bfd7cd8a0
+INFO - 2025-02-10 15:10:23 --> Login user_id2: d826eb474a9eca79a557a368dd6506595547eeb83226782dfdb1d13bfd7cd8a0
+INFO - 2025-02-10 15:13:10 --> Logout session_id: Not Found
+INFO - 2025-02-10 15:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-10 15:13:16 --> Login user_id: e22cacae4c23d1914491b954665aaf8421acd0198eea5a4f71ec1f53c4d0a829
+INFO - 2025-02-10 15:13:16 --> Login user_id1: e22cacae4c23d1914491b954665aaf8421acd0198eea5a4f71ec1f53c4d0a829
+INFO - 2025-02-10 15:13:16 --> Login user_id2: e22cacae4c23d1914491b954665aaf8421acd0198eea5a4f71ec1f53c4d0a829
+INFO - 2025-02-10 15:13:16 --> Cookies after setting: {"d826eb474a9eca79a557a368dd6506595547eeb83226782dfdb1d13bfd7cd8a0":""}
+INFO - 2025-02-10 15:15:38 --> Logout session_id: Not Found
+INFO - 2025-02-10 15:15:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-10 15:15:44 --> Login user_id: efc57a230d42ca5543e1fbc5491c5a8186ba98875985f4544f8375496e797b4a
+INFO - 2025-02-10 15:15:44 --> Login user_id1: efc57a230d42ca5543e1fbc5491c5a8186ba98875985f4544f8375496e797b4a
+INFO - 2025-02-10 15:15:44 --> Login user_id2: efc57a230d42ca5543e1fbc5491c5a8186ba98875985f4544f8375496e797b4a
+INFO - 2025-02-10 15:15:44 --> Cookies after setting: {"e22cacae4c23d1914491b954665aaf8421acd0198eea5a4f71ec1f53c4d0a829":""}
+INFO - 2025-02-10 15:20:02 --> Before Logout Cookies after setting: {"efc57a230d42ca5543e1fbc5491c5a8186ba98875985f4544f8375496e797b4a":"","session_id":"efc57a230d42ca5543e1fbc5491c5a8186ba98875985f4544f8375496e797b4a"}
+INFO - 2025-02-10 15:20:02 --> Logout session_id: efc57a230d42ca5543e1fbc5491c5a8186ba98875985f4544f8375496e797b4a
+INFO - 2025-02-10 15:20:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-10 15:20:02 --> After logout Cookies after setting: {"efc57a230d42ca5543e1fbc5491c5a8186ba98875985f4544f8375496e797b4a":"","session_id":"efc57a230d42ca5543e1fbc5491c5a8186ba98875985f4544f8375496e797b4a"}
+INFO - 2025-02-10 15:23:16 --> Before Logout Cookies after setting: {"efc57a230d42ca5543e1fbc5491c5a8186ba98875985f4544f8375496e797b4a":""}
+INFO - 2025-02-10 15:23:16 --> Logout session_id: Not Found
+INFO - 2025-02-10 15:23:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-02-10 15:23:16 --> ErrorException: session_destroy(): Trying to destroy uninitialized session
+[Method: POST, Route: logout]
+in SYSTEMPATH\Session\Session.php on line 435.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'session_destroy(): Trying to destroy uninitialized session', 'C:\\xampp\\htdocs\\ci4\\backend\\vendor\\codeigniter4\\framework\\system\\Session\\Session.php', 435)
+ 2 SYSTEMPATH\Session\Session.php(435): session_destroy()
+ 3 SYSTEMPATH\Session\Session.php(273): CodeIgniter\Session\Session->destroy()
+ 4 APPPATH\Controllers\RegistrationController.php(327): CodeIgniter\Session\Session->stop()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\RegistrationController->logout()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrationController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-10 15:23:26 --> Login user_id: 988cae8db3808b92ce0ec9a1d6cb71950cb62d015e84b46d5f10d765b9fe5e64
+INFO - 2025-02-10 15:23:26 --> Login user_id1: 988cae8db3808b92ce0ec9a1d6cb71950cb62d015e84b46d5f10d765b9fe5e64
+INFO - 2025-02-10 15:23:26 --> Login user_id2: 988cae8db3808b92ce0ec9a1d6cb71950cb62d015e84b46d5f10d765b9fe5e64
+INFO - 2025-02-10 15:23:26 --> Cookies after setting: {"efc57a230d42ca5543e1fbc5491c5a8186ba98875985f4544f8375496e797b4a":""}
+INFO - 2025-02-10 15:23:34 --> Before Logout Cookies after setting: {"988cae8db3808b92ce0ec9a1d6cb71950cb62d015e84b46d5f10d765b9fe5e64":"","session_id":"988cae8db3808b92ce0ec9a1d6cb71950cb62d015e84b46d5f10d765b9fe5e64"}
+INFO - 2025-02-10 15:23:34 --> Logout session_id: 988cae8db3808b92ce0ec9a1d6cb71950cb62d015e84b46d5f10d765b9fe5e64
+INFO - 2025-02-10 15:23:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-02-10 15:23:34 --> ErrorException: session_destroy(): Trying to destroy uninitialized session
+[Method: POST, Route: logout]
+in SYSTEMPATH\Session\Session.php on line 435.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'session_destroy(): Trying to destroy uninitialized session', 'C:\\xampp\\htdocs\\ci4\\backend\\vendor\\codeigniter4\\framework\\system\\Session\\Session.php', 435)
+ 2 SYSTEMPATH\Session\Session.php(435): session_destroy()
+ 3 SYSTEMPATH\Session\Session.php(273): CodeIgniter\Session\Session->destroy()
+ 4 APPPATH\Controllers\RegistrationController.php(327): CodeIgniter\Session\Session->stop()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\RegistrationController->logout()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrationController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-10 15:25:46 --> Before Logout Cookies after setting: {"988cae8db3808b92ce0ec9a1d6cb71950cb62d015e84b46d5f10d765b9fe5e64":""}
+INFO - 2025-02-10 15:25:46 --> Logout session_id: Not Found
+INFO - 2025-02-10 15:25:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-10 15:25:46 --> After logout Cookies after setting: {"988cae8db3808b92ce0ec9a1d6cb71950cb62d015e84b46d5f10d765b9fe5e64":""}
+INFO - 2025-02-10 15:25:50 --> Login user_id: bdd91322aa4c25c821bfc0bd6a2f946151319e129f589d97a80cc6ca20988446
+INFO - 2025-02-10 15:25:50 --> Login user_id1: bdd91322aa4c25c821bfc0bd6a2f946151319e129f589d97a80cc6ca20988446
+INFO - 2025-02-10 15:25:50 --> Login user_id2: bdd91322aa4c25c821bfc0bd6a2f946151319e129f589d97a80cc6ca20988446
+INFO - 2025-02-10 15:25:50 --> Cookies after setting: {"988cae8db3808b92ce0ec9a1d6cb71950cb62d015e84b46d5f10d765b9fe5e64":""}
+INFO - 2025-02-10 15:28:01 --> Login user_id: 621f9d18044fd5ef4b5d6681e6995e1a4c2ca72d47f2e8c7d47fe3bc0a9aef44
+INFO - 2025-02-10 15:28:01 --> Login user_id1: 621f9d18044fd5ef4b5d6681e6995e1a4c2ca72d47f2e8c7d47fe3bc0a9aef44
+INFO - 2025-02-10 15:28:01 --> Login user_id2: 621f9d18044fd5ef4b5d6681e6995e1a4c2ca72d47f2e8c7d47fe3bc0a9aef44
+INFO - 2025-02-10 15:28:01 --> Cookies after setting: {"bdd91322aa4c25c821bfc0bd6a2f946151319e129f589d97a80cc6ca20988446":"","session_id":"bdd91322aa4c25c821bfc0bd6a2f946151319e129f589d97a80cc6ca20988446"}
+INFO - 2025-02-10 15:28:23 --> Before Logout Cookies after setting: {"bdd91322aa4c25c821bfc0bd6a2f946151319e129f589d97a80cc6ca20988446":"","session_id":"621f9d18044fd5ef4b5d6681e6995e1a4c2ca72d47f2e8c7d47fe3bc0a9aef44"}
+INFO - 2025-02-10 15:28:23 --> Logout session_id: 621f9d18044fd5ef4b5d6681e6995e1a4c2ca72d47f2e8c7d47fe3bc0a9aef44
+INFO - 2025-02-10 15:28:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-10 15:28:23 --> After logout Cookies after setting: {"bdd91322aa4c25c821bfc0bd6a2f946151319e129f589d97a80cc6ca20988446":"","session_id":"621f9d18044fd5ef4b5d6681e6995e1a4c2ca72d47f2e8c7d47fe3bc0a9aef44"}
+INFO - 2025-02-10 15:28:26 --> Before Logout Cookies after setting: {"621f9d18044fd5ef4b5d6681e6995e1a4c2ca72d47f2e8c7d47fe3bc0a9aef44":""}
+INFO - 2025-02-10 15:28:26 --> Logout session_id: Not Found
+INFO - 2025-02-10 15:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-10 15:28:26 --> After logout Cookies after setting: {"621f9d18044fd5ef4b5d6681e6995e1a4c2ca72d47f2e8c7d47fe3bc0a9aef44":""}
+INFO - 2025-02-10 15:28:49 --> Login user_id: 55372cf1e417034c8c981ab8f86de28cb2b2331d0294467440eb03e98944c54a
+INFO - 2025-02-10 15:28:49 --> Login user_id1: 55372cf1e417034c8c981ab8f86de28cb2b2331d0294467440eb03e98944c54a
+INFO - 2025-02-10 15:28:49 --> Login user_id2: 55372cf1e417034c8c981ab8f86de28cb2b2331d0294467440eb03e98944c54a
+INFO - 2025-02-10 15:28:49 --> Cookies after setting: []
+INFO - 2025-02-10 15:28:51 --> Received user_id: 
+INFO - 2025-02-10 15:28:52 --> Received user_id: 
+INFO - 2025-02-10 15:37:17 --> Login user_id: 1d7de5318e50b2b212fab6a201aa862f8e33e3064422d01f8045c34cba91efbf
+INFO - 2025-02-10 15:37:17 --> Login user_id1: 1d7de5318e50b2b212fab6a201aa862f8e33e3064422d01f8045c34cba91efbf
+INFO - 2025-02-10 15:37:17 --> Login user_id2: 1d7de5318e50b2b212fab6a201aa862f8e33e3064422d01f8045c34cba91efbf
+INFO - 2025-02-10 15:37:17 --> Cookies after setting: {"621f9d18044fd5ef4b5d6681e6995e1a4c2ca72d47f2e8c7d47fe3bc0a9aef44":""}
+INFO - 2025-02-10 15:37:26 --> Login user_id: fdf0463fea728c51fe165eb0e74e14b93ff3ab56c25a282d86b7829dfa0235e7
+INFO - 2025-02-10 15:37:26 --> Login user_id1: fdf0463fea728c51fe165eb0e74e14b93ff3ab56c25a282d86b7829dfa0235e7
+INFO - 2025-02-10 15:37:26 --> Login user_id2: fdf0463fea728c51fe165eb0e74e14b93ff3ab56c25a282d86b7829dfa0235e7
+INFO - 2025-02-10 15:37:26 --> Cookies after setting: {"1d7de5318e50b2b212fab6a201aa862f8e33e3064422d01f8045c34cba91efbf":"","session_id":"1d7de5318e50b2b212fab6a201aa862f8e33e3064422d01f8045c34cba91efbf"}
+INFO - 2025-02-10 15:37:40 --> Before Logout Cookies: {"1d7de5318e50b2b212fab6a201aa862f8e33e3064422d01f8045c34cba91efbf":"","session_id":"fdf0463fea728c51fe165eb0e74e14b93ff3ab56c25a282d86b7829dfa0235e7"}
+INFO - 2025-02-10 15:37:40 --> Logout session_id: fdf0463fea728c51fe165eb0e74e14b93ff3ab56c25a282d86b7829dfa0235e7
+INFO - 2025-02-10 15:37:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-02-10 15:37:40 --> ErrorException: session_destroy(): Trying to destroy uninitialized session
+[Method: POST, Route: logout]
+in SYSTEMPATH\Session\Session.php on line 435.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'session_destroy(): Trying to destroy uninitialized session', 'C:\\xampp\\htdocs\\ci4\\backend\\vendor\\codeigniter4\\framework\\system\\Session\\Session.php', 435)
+ 2 SYSTEMPATH\Session\Session.php(435): session_destroy()
+ 3 SYSTEMPATH\Session\Session.php(273): CodeIgniter\Session\Session->destroy()
+ 4 APPPATH\Controllers\RegistrationController.php(326): CodeIgniter\Session\Session->stop()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\RegistrationController->logout()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrationController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-10 15:39:14 --> Login user_id: 2cec2914066cb4df478bb2fa97a0007de93513115ebb50683f38d334aad994af
+INFO - 2025-02-10 15:39:14 --> Login user_id1: 2cec2914066cb4df478bb2fa97a0007de93513115ebb50683f38d334aad994af
+INFO - 2025-02-10 15:39:14 --> Login user_id2: 2cec2914066cb4df478bb2fa97a0007de93513115ebb50683f38d334aad994af
+INFO - 2025-02-10 15:39:14 --> Cookies after setting: {"1d7de5318e50b2b212fab6a201aa862f8e33e3064422d01f8045c34cba91efbf":""}
+INFO - 2025-02-10 15:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-02-10 15:39:22 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-02-10 15:39:22 --> Before Logout Cookies: {"2cec2914066cb4df478bb2fa97a0007de93513115ebb50683f38d334aad994af":"","session_id":"2cec2914066cb4df478bb2fa97a0007de93513115ebb50683f38d334aad994af"}
+INFO - 2025-02-10 15:39:22 --> Logout session_id: 2cec2914066cb4df478bb2fa97a0007de93513115ebb50683f38d334aad994af
+CRITICAL - 2025-02-10 15:39:22 --> ErrorException: session_destroy(): Trying to destroy uninitialized session
+[Method: POST, Route: logout]
+in SYSTEMPATH\Session\Session.php on line 435.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'session_destroy(): Trying to destroy uninitialized session', 'C:\\xampp\\htdocs\\ci4\\backend\\vendor\\codeigniter4\\framework\\system\\Session\\Session.php', 435)
+ 2 SYSTEMPATH\Session\Session.php(435): session_destroy()
+ 3 SYSTEMPATH\Session\Session.php(273): CodeIgniter\Session\Session->destroy()
+ 4 APPPATH\Controllers\RegistrationController.php(331): CodeIgniter\Session\Session->stop()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\RegistrationController->logout()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrationController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-10 15:40:31 --> Login user_id: 523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e
+INFO - 2025-02-10 15:40:31 --> Login user_id1: 523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e
+INFO - 2025-02-10 15:40:31 --> Login user_id2: 523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e
+INFO - 2025-02-10 15:40:31 --> Cookies after setting: {"2cec2914066cb4df478bb2fa97a0007de93513115ebb50683f38d334aad994af":""}
+INFO - 2025-02-10 15:40:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-02-10 15:40:44 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-02-10 15:40:44 --> Before Logout Cookies: {"523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e":"","session_id":"523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e"}
+INFO - 2025-02-10 15:40:44 --> Logout session_id: 523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e
+CRITICAL - 2025-02-10 15:40:44 --> ErrorException: session_destroy(): Trying to destroy uninitialized session
+[Method: POST, Route: logout]
+in SYSTEMPATH\Session\Session.php on line 435.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'session_destroy(): Trying to destroy uninitialized session', 'C:\\xampp\\htdocs\\ci4\\backend\\vendor\\codeigniter4\\framework\\system\\Session\\Session.php', 435)
+ 2 SYSTEMPATH\Session\Session.php(435): session_destroy()
+ 3 SYSTEMPATH\Session\Session.php(273): CodeIgniter\Session\Session->destroy()
+ 4 APPPATH\Controllers\RegistrationController.php(329): CodeIgniter\Session\Session->stop()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\RegistrationController->logout()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrationController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-10 15:42:08 --> Logout session_id..: Not Found
+INFO - 2025-02-10 15:42:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-02-10 15:42:08 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-02-10 15:42:08 --> Before Logout Cookies: {"523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e":"","session_id":"523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e"}
+INFO - 2025-02-10 15:42:08 --> Logout session_id: 523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e
+CRITICAL - 2025-02-10 15:42:08 --> ErrorException: session_destroy(): Trying to destroy uninitialized session
+[Method: POST, Route: logout]
+in SYSTEMPATH\Session\Session.php on line 435.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'session_destroy(): Trying to destroy uninitialized session', 'C:\\xampp\\htdocs\\ci4\\backend\\vendor\\codeigniter4\\framework\\system\\Session\\Session.php', 435)
+ 2 SYSTEMPATH\Session\Session.php(435): session_destroy()
+ 3 SYSTEMPATH\Session\Session.php(273): CodeIgniter\Session\Session->destroy()
+ 4 APPPATH\Controllers\RegistrationController.php(330): CodeIgniter\Session\Session->stop()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\RegistrationController->logout()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrationController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-10 15:43:57 --> Before Logout Cookies after setting: {"523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e":"","session_id":"523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e"}
+INFO - 2025-02-10 15:43:57 --> Logout session_id: 523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e
+CRITICAL - 2025-02-10 15:43:57 --> TypeError: log_message(): Argument #3 ($context) must be of type array, string given, called in C:\xampp\htdocs\ci4\backend\app\Controllers\RegistrationController.php on line 317
+[Method: POST, Route: logout]
+in SYSTEMPATH\Common.php on line 772.
+ 1 APPPATH\Controllers\RegistrationController.php(317): log_message('info', 'Logout session_id: ', 'hi')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\RegistrationController->logout()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrationController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-10 15:44:17 --> Before Logout Cookies after setting: {"523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e":"","session_id":"523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e"}
+INFO - 2025-02-10 15:44:17 --> Logout session_id: 523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e
+INFO - 2025-02-10 15:44:17 --> Logout session_id: 
+INFO - 2025-02-10 15:44:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-10 15:44:17 --> After logout Cookies after setting: {"523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e":"","session_id":"523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e"}
+INFO - 2025-02-10 15:54:37 --> Login user_id: 1a6015462a790850f9a1a269c2575df3a12fa73d41489db1d1fd5a5d8041505f
+INFO - 2025-02-10 15:54:37 --> Login user_id1: 1a6015462a790850f9a1a269c2575df3a12fa73d41489db1d1fd5a5d8041505f
+INFO - 2025-02-10 15:54:37 --> Login user_id2: 1a6015462a790850f9a1a269c2575df3a12fa73d41489db1d1fd5a5d8041505f
+INFO - 2025-02-10 15:54:37 --> Cookies after setting: {"523a017e5337167477d55c18f5856bb418878435603ed0843f5012c84e3ccd1e":""}
+INFO - 2025-02-10 15:55:46 --> Login user_id: 40730517e9e8ea03266dd0e67c98c4220f9dccd864f187e8ce064e7d8880c6fa
+INFO - 2025-02-10 15:55:46 --> Login user_id1: 40730517e9e8ea03266dd0e67c98c4220f9dccd864f187e8ce064e7d8880c6fa
+INFO - 2025-02-10 15:55:46 --> Login user_id2: 40730517e9e8ea03266dd0e67c98c4220f9dccd864f187e8ce064e7d8880c6fa
+INFO - 2025-02-10 15:55:46 --> Cookies after setting: {"1a6015462a790850f9a1a269c2575df3a12fa73d41489db1d1fd5a5d8041505f":""}
+INFO - 2025-02-10 15:55:57 --> Before logout Cookies after setting: {"40730517e9e8ea03266dd0e67c98c4220f9dccd864f187e8ce064e7d8880c6fa":"","session_id":"40730517e9e8ea03266dd0e67c98c4220f9dccd864f187e8ce064e7d8880c6fa"}
+INFO - 2025-02-10 15:55:57 --> After logout Cookies after setting: {"40730517e9e8ea03266dd0e67c98c4220f9dccd864f187e8ce064e7d8880c6fa":"","session_id":"40730517e9e8ea03266dd0e67c98c4220f9dccd864f187e8ce064e7d8880c6fa"}
+INFO - 2025-02-10 15:59:57 --> Login user_id: 66b79385abe8653ced3a2000aaf01428dff232bab536d226a37748241b2e62d0
+INFO - 2025-02-10 15:59:57 --> Login user_id1: 66b79385abe8653ced3a2000aaf01428dff232bab536d226a37748241b2e62d0
+INFO - 2025-02-10 15:59:57 --> Login user_id2: 66b79385abe8653ced3a2000aaf01428dff232bab536d226a37748241b2e62d0
+INFO - 2025-02-10 15:59:57 --> Cookies after setting: {"40730517e9e8ea03266dd0e67c98c4220f9dccd864f187e8ce064e7d8880c6fa":""}
+INFO - 2025-02-10 16:00:08 --> Before logout Cookies after setting: {"66b79385abe8653ced3a2000aaf01428dff232bab536d226a37748241b2e62d0":"","session_id":"66b79385abe8653ced3a2000aaf01428dff232bab536d226a37748241b2e62d0"}
+INFO - 2025-02-10 16:00:08 --> After logout Cookies after setting: {"66b79385abe8653ced3a2000aaf01428dff232bab536d226a37748241b2e62d0":""}
+INFO - 2025-02-10 16:00:48 --> Login user_id: 9b632f65de6c272391a3b100edca20f471bf62800309e147b7e119a30d71f222
+INFO - 2025-02-10 16:00:48 --> Login user_id1: 9b632f65de6c272391a3b100edca20f471bf62800309e147b7e119a30d71f222
+INFO - 2025-02-10 16:00:48 --> Login user_id2: 9b632f65de6c272391a3b100edca20f471bf62800309e147b7e119a30d71f222
+INFO - 2025-02-10 16:00:48 --> Cookies after setting: {"66b79385abe8653ced3a2000aaf01428dff232bab536d226a37748241b2e62d0":""}
+INFO - 2025-02-10 16:05:11 --> Before logout Cookies after setting: {"9b632f65de6c272391a3b100edca20f471bf62800309e147b7e119a30d71f222":"","session_id":"9b632f65de6c272391a3b100edca20f471bf62800309e147b7e119a30d71f222"}
+INFO - 2025-02-10 16:05:11 --> After logout Cookies after setting: {"9b632f65de6c272391a3b100edca20f471bf62800309e147b7e119a30d71f222":""}
+INFO - 2025-02-10 16:05:16 --> Login user_id: 78528a1828c3a68fcfab4fbfa11b08b856d385f78e41198f66601721cf94199c
+INFO - 2025-02-10 16:05:16 --> Login user_id1: 78528a1828c3a68fcfab4fbfa11b08b856d385f78e41198f66601721cf94199c
+INFO - 2025-02-10 16:05:16 --> Login user_id2: 78528a1828c3a68fcfab4fbfa11b08b856d385f78e41198f66601721cf94199c
+INFO - 2025-02-10 16:05:16 --> Cookies after setting: {"9b632f65de6c272391a3b100edca20f471bf62800309e147b7e119a30d71f222":""}
+INFO - 2025-02-10 16:08:10 --> Before logout Cookies after setting: {"78528a1828c3a68fcfab4fbfa11b08b856d385f78e41198f66601721cf94199c":"","session_id":"78528a1828c3a68fcfab4fbfa11b08b856d385f78e41198f66601721cf94199c"}
+CRITICAL - 2025-02-10 16:08:10 --> TypeError: setcookie(): Argument #1 ($name) must be of type string, array given
+[Method: POST, Route: logout]
+in APPPATH\Controllers\RegistrationController.php on line 340.
+ 1 APPPATH\Controllers\RegistrationController.php(340): setcookie([...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\RegistrationController->logout()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrationController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-10 16:09:18 --> Before logout Cookies after setting: {"78528a1828c3a68fcfab4fbfa11b08b856d385f78e41198f66601721cf94199c":"","session_id":"78528a1828c3a68fcfab4fbfa11b08b856d385f78e41198f66601721cf94199c"}
+INFO - 2025-02-10 16:09:18 --> After logout Cookies after setting: {"78528a1828c3a68fcfab4fbfa11b08b856d385f78e41198f66601721cf94199c":""}
+INFO - 2025-02-10 16:09:22 --> Login user_id: b520eb0af2f059ad2bbd5bad29d491ca70a8f22e57e8db3c4392d127a3df20f0
+INFO - 2025-02-10 16:09:22 --> Login user_id1: b520eb0af2f059ad2bbd5bad29d491ca70a8f22e57e8db3c4392d127a3df20f0
+INFO - 2025-02-10 16:09:22 --> Login user_id2: b520eb0af2f059ad2bbd5bad29d491ca70a8f22e57e8db3c4392d127a3df20f0
+INFO - 2025-02-10 16:09:22 --> Cookies after setting: {"78528a1828c3a68fcfab4fbfa11b08b856d385f78e41198f66601721cf94199c":""}
+INFO - 2025-02-10 16:11:21 --> Login user_id: 20c8eaa77dd35581cb069027567a67ad05708be1036916906de19bf2e7eddd27
+INFO - 2025-02-10 16:11:21 --> Login user_id1: 20c8eaa77dd35581cb069027567a67ad05708be1036916906de19bf2e7eddd27
+INFO - 2025-02-10 16:11:21 --> Login user_id2: 20c8eaa77dd35581cb069027567a67ad05708be1036916906de19bf2e7eddd27
+INFO - 2025-02-10 16:11:21 --> Cookies after setting: {"b520eb0af2f059ad2bbd5bad29d491ca70a8f22e57e8db3c4392d127a3df20f0":"","session_id":"b520eb0af2f059ad2bbd5bad29d491ca70a8f22e57e8db3c4392d127a3df20f0"}
+INFO - 2025-02-10 16:11:53 --> Before logout Cookies after setting: {"b520eb0af2f059ad2bbd5bad29d491ca70a8f22e57e8db3c4392d127a3df20f0":"","session_id":"20c8eaa77dd35581cb069027567a67ad05708be1036916906de19bf2e7eddd27"}
+INFO - 2025-02-10 16:11:53 --> After logout Cookies after setting: {"b520eb0af2f059ad2bbd5bad29d491ca70a8f22e57e8db3c4392d127a3df20f0":""}
+INFO - 2025-02-10 16:11:59 --> Before logout Cookies after setting: {"20c8eaa77dd35581cb069027567a67ad05708be1036916906de19bf2e7eddd27":""}
+INFO - 2025-02-10 16:12:03 --> Login user_id: 33e406b1447ba863a0d2bd72f5dac9530ec1683ff904e08330d374fe43093ddb
+INFO - 2025-02-10 16:12:03 --> Login user_id1: 33e406b1447ba863a0d2bd72f5dac9530ec1683ff904e08330d374fe43093ddb
+INFO - 2025-02-10 16:12:03 --> Login user_id2: 33e406b1447ba863a0d2bd72f5dac9530ec1683ff904e08330d374fe43093ddb
+INFO - 2025-02-10 16:12:03 --> Cookies after setting: {"20c8eaa77dd35581cb069027567a67ad05708be1036916906de19bf2e7eddd27":""}
+INFO - 2025-02-10 16:16:53 --> Before logout Cookies after setting: {"33e406b1447ba863a0d2bd72f5dac9530ec1683ff904e08330d374fe43093ddb":"","session_id":"33e406b1447ba863a0d2bd72f5dac9530ec1683ff904e08330d374fe43093ddb"}
+INFO - 2025-02-10 16:16:53 --> After logout Cookies after setting: {"33e406b1447ba863a0d2bd72f5dac9530ec1683ff904e08330d374fe43093ddb":""}
+CRITICAL - 2025-02-10 16:19:17 --> ErrorException: Undefined array key "session_id"
+[Method: GET, Route: checkAuth]
+in APPPATH\Controllers\RegistrationController.php on line 365.
+ 1 APPPATH\Controllers\RegistrationController.php(365): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "session_id"', 'C:\\xampp\\htdocs\\ci4\\backend\\app\\Controllers\\RegistrationController.php', 365)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\RegistrationController->checkAuth()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrationController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-10 16:25:12 --> Login user_id: 4426e164c0e53ca49c6b2f0cba5e2828fc53421db018ef9126ab6fb511c4e147
+INFO - 2025-02-10 16:25:12 --> Login user_id1: 4426e164c0e53ca49c6b2f0cba5e2828fc53421db018ef9126ab6fb511c4e147
+INFO - 2025-02-10 16:25:12 --> Login user_id2: 4426e164c0e53ca49c6b2f0cba5e2828fc53421db018ef9126ab6fb511c4e147
+INFO - 2025-02-10 16:25:12 --> Cookies after setting: {"33e406b1447ba863a0d2bd72f5dac9530ec1683ff904e08330d374fe43093ddb":""}
+INFO - 2025-02-10 16:26:07 --> Login user_id: 876d7d21cf5f510c661217f6c6d46970e3da781d797283c21576a98ee6679553
+INFO - 2025-02-10 16:26:07 --> Login user_id1: 876d7d21cf5f510c661217f6c6d46970e3da781d797283c21576a98ee6679553
+INFO - 2025-02-10 16:26:07 --> Login user_id2: 876d7d21cf5f510c661217f6c6d46970e3da781d797283c21576a98ee6679553
+INFO - 2025-02-10 16:26:07 --> Cookies after setting: {"33e406b1447ba863a0d2bd72f5dac9530ec1683ff904e08330d374fe43093ddb":"","session_id":"4426e164c0e53ca49c6b2f0cba5e2828fc53421db018ef9126ab6fb511c4e147"}
+INFO - 2025-02-10 16:27:44 --> Before checkAuth Cookies after setting: {"33e406b1447ba863a0d2bd72f5dac9530ec1683ff904e08330d374fe43093ddb":"","session_id":"876d7d21cf5f510c661217f6c6d46970e3da781d797283c21576a98ee6679553"}
+INFO - 2025-02-10 16:28:12 --> Before checkAuth Cookies after setting: {"33e406b1447ba863a0d2bd72f5dac9530ec1683ff904e08330d374fe43093ddb":"","session_id":"876d7d21cf5f510c661217f6c6d46970e3da781d797283c21576a98ee6679553"}
+INFO - 2025-02-10 16:28:40 --> Before logout Cookies after setting: {"33e406b1447ba863a0d2bd72f5dac9530ec1683ff904e08330d374fe43093ddb":"","session_id":"876d7d21cf5f510c661217f6c6d46970e3da781d797283c21576a98ee6679553"}
+INFO - 2025-02-10 16:28:40 --> After logout Cookies after setting: {"33e406b1447ba863a0d2bd72f5dac9530ec1683ff904e08330d374fe43093ddb":""}
+INFO - 2025-02-10 16:29:25 --> Before logout Cookies after setting: {"876d7d21cf5f510c661217f6c6d46970e3da781d797283c21576a98ee6679553":""}
+INFO - 2025-02-10 16:29:34 --> Login user_id: 14250552bd12aa347c031f7f8b85097f8b2c95ce90185141d0f8e1e4174a10b5
+INFO - 2025-02-10 16:29:34 --> Login user_id1: 14250552bd12aa347c031f7f8b85097f8b2c95ce90185141d0f8e1e4174a10b5
+INFO - 2025-02-10 16:29:34 --> Login user_id2: 14250552bd12aa347c031f7f8b85097f8b2c95ce90185141d0f8e1e4174a10b5
+INFO - 2025-02-10 16:29:34 --> Cookies after setting: {"876d7d21cf5f510c661217f6c6d46970e3da781d797283c21576a98ee6679553":""}
+INFO - 2025-02-10 16:29:49 --> Before checkAuth Cookies after setting: {"14250552bd12aa347c031f7f8b85097f8b2c95ce90185141d0f8e1e4174a10b5":"","session_id":"14250552bd12aa347c031f7f8b85097f8b2c95ce90185141d0f8e1e4174a10b5"}
+INFO - 2025-02-10 16:33:40 --> Before checkAuth Cookies after setting: {"14250552bd12aa347c031f7f8b85097f8b2c95ce90185141d0f8e1e4174a10b5":"","session_id":"14250552bd12aa347c031f7f8b85097f8b2c95ce90185141d0f8e1e4174a10b5"}
+INFO - 2025-02-10 16:33:40 --> After checkAuth Cookies after setting: {"14250552bd12aa347c031f7f8b85097f8b2c95ce90185141d0f8e1e4174a10b5":"","session_id":"14250552bd12aa347c031f7f8b85097f8b2c95ce90185141d0f8e1e4174a10b5"}
+INFO - 2025-02-10 16:33:59 --> Login user_id: b790bf95ae87d0e4e83f689ff186f09710a63827a74d162f2cac44e8fa90e58d
+INFO - 2025-02-10 16:33:59 --> Login user_id1: b790bf95ae87d0e4e83f689ff186f09710a63827a74d162f2cac44e8fa90e58d
+INFO - 2025-02-10 16:33:59 --> Login user_id2: b790bf95ae87d0e4e83f689ff186f09710a63827a74d162f2cac44e8fa90e58d
+INFO - 2025-02-10 16:33:59 --> Cookies after setting: []
+WARNING - 2025-02-10 16:49:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 16:49:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 17:10:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 17:10:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 17:21:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 17:21:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 17:21:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 17:21:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 17:33:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 17:33:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 17:33:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 17:33:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 17:34:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 17:34:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 17:41:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-10 17:41:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

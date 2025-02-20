@@ -1,0 +1,966 @@
+WARNING - 2025-02-16 15:31:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:31:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 15:43:54 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 15:43:54 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 15:43:56 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 15:43:56 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+WARNING - 2025-02-16 15:44:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:44:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:44:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:44:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:44:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:44:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:44:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:44:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:44:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:44:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 15:44:34 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 15:44:34 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+WARNING - 2025-02-16 15:44:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:44:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 15:45:19 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 15:45:19 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+WARNING - 2025-02-16 15:45:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:45:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:45:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:45:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:45:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:45:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:45:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:45:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:45:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 15:45:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 15:51:47 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+WARNING - 2025-02-16 15:52:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 15:52:52 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 15:52:52 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+WARNING - 2025-02-16 15:52:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 16:01:47 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 16:09:45 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 16:09:45 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 16:11:47 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 16:21:09 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 16:21:09 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+WARNING - 2025-02-16 16:21:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 16:21:09 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+WARNING - 2025-02-16 16:21:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 16:22:55 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 16:22:55 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 16:22:57 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 16:22:57 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+WARNING - 2025-02-16 16:22:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 16:22:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 16:23:05 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 16:23:06 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+WARNING - 2025-02-16 16:23:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 16:23:06 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+WARNING - 2025-02-16 16:23:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 16:33:06 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 16:42:31 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 16:42:31 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+WARNING - 2025-02-16 16:42:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 16:42:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 16:43:06 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 16:43:09 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 16:43:09 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+WARNING - 2025-02-16 16:43:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 16:43:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 16:47:03 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 16:47:03 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+WARNING - 2025-02-16 16:47:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 16:47:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 16:47:06 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+WARNING - 2025-02-16 16:47:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 16:47:06 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 16:47:06 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+WARNING - 2025-02-16 16:47:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:13:19 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 17:14:10 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+INFO - 2025-02-16 17:14:10 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+WARNING - 2025-02-16 17:14:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:14:11 --> Before checkAuth Cookies after setting: {"session_id":"56b5ab38981c713be40c777ea604ddf5e84d4b93675eba90c5fe8f0f1fd9bd35"}
+WARNING - 2025-02-16 17:14:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:14:22 --> Before checkAuth Cookies after setting: {"session_id":"ad0a9c6d3837b7ae2c50b92ed946bfaa84f944dea453ce35705208e2c826ecca"}
+INFO - 2025-02-16 17:14:24 --> Before checkAuth Cookies after setting: {"session_id":"ad0a9c6d3837b7ae2c50b92ed946bfaa84f944dea453ce35705208e2c826ecca"}
+INFO - 2025-02-16 17:14:24 --> Before checkAuth Cookies after setting: {"session_id":"ad0a9c6d3837b7ae2c50b92ed946bfaa84f944dea453ce35705208e2c826ecca"}
+WARNING - 2025-02-16 17:14:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:14:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:15:20 --> Before checkAuth Cookies after setting: {"session_id":"ad0a9c6d3837b7ae2c50b92ed946bfaa84f944dea453ce35705208e2c826ecca"}
+INFO - 2025-02-16 17:15:20 --> Before checkAuth Cookies after setting: {"session_id":"ad0a9c6d3837b7ae2c50b92ed946bfaa84f944dea453ce35705208e2c826ecca"}
+INFO - 2025-02-16 17:15:29 --> Before checkAuth Cookies after setting: {"session_id":"ad0a9c6d3837b7ae2c50b92ed946bfaa84f944dea453ce35705208e2c826ecca"}
+INFO - 2025-02-16 17:15:30 --> Before checkAuth Cookies after setting: {"session_id":"ad0a9c6d3837b7ae2c50b92ed946bfaa84f944dea453ce35705208e2c826ecca"}
+WARNING - 2025-02-16 17:15:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:15:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:20:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:20:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:20:34 --> Before checkAuth Cookies after setting: {"session_id":"ad0a9c6d3837b7ae2c50b92ed946bfaa84f944dea453ce35705208e2c826ecca"}
+INFO - 2025-02-16 17:20:34 --> Before checkAuth Cookies after setting: {"session_id":"ad0a9c6d3837b7ae2c50b92ed946bfaa84f944dea453ce35705208e2c826ecca"}
+WARNING - 2025-02-16 17:20:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:20:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:20:50 --> Before checkAuth Cookies after setting: {"session_id":"ad0a9c6d3837b7ae2c50b92ed946bfaa84f944dea453ce35705208e2c826ecca"}
+INFO - 2025-02-16 17:20:50 --> Before checkAuth Cookies after setting: {"session_id":"ad0a9c6d3837b7ae2c50b92ed946bfaa84f944dea453ce35705208e2c826ecca"}
+INFO - 2025-02-16 17:21:01 --> Before checkAuth Cookies after setting: {"session_id":"ad0a9c6d3837b7ae2c50b92ed946bfaa84f944dea453ce35705208e2c826ecca"}
+INFO - 2025-02-16 17:21:02 --> Before checkAuth Cookies after setting: {"session_id":"ad0a9c6d3837b7ae2c50b92ed946bfaa84f944dea453ce35705208e2c826ecca"}
+INFO - 2025-02-16 17:21:02 --> Before checkAuth Cookies after setting: {"session_id":"ad0a9c6d3837b7ae2c50b92ed946bfaa84f944dea453ce35705208e2c826ecca"}
+WARNING - 2025-02-16 17:21:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:21:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:21:37 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 17:21:37 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 17:21:39 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 17:21:39 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 17:21:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:21:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:21:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:21:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:22:05 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 17:22:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:22:05 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 17:22:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:22:09 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 17:22:09 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 17:22:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeachersController::$teachersModel is deprecated in APPPATH\Controllers\TeachersController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeachersController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeachersController::$teachersModel is deprecated in APPPATH\Controllers\TeachersController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeachersController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:22:22 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 17:22:22 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 17:22:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:22:24 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 17:22:24 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 17:22:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:22:45 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 17:22:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:22:45 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 17:22:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:22:47 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 17:22:47 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 17:22:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:22:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:31:01 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 17:31:01 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 17:31:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:31:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:31:02 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 17:31:29 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 17:31:29 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 17:31:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeachersController::$teachersModel is deprecated in APPPATH\Controllers\TeachersController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeachersController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:31:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeachersController::$teachersModel is deprecated in APPPATH\Controllers\TeachersController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeachersController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:33:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeachersController::$teachersModel is deprecated in APPPATH\Controllers\TeachersController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeachersController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 17:33:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeachersController::$teachersModel is deprecated in APPPATH\Controllers\TeachersController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeachersController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 17:41:01 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 18:02:11 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 18:04:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:04:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:04:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:04:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:04:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:04:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 18:05:36 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 18:05:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 18:05:36 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 18:05:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:05:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:05:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:05:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:05:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:05:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:05:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 18:11:01 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 18:17:12 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 18:17:12 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 18:17:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:17:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:17:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:17:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:17:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:17:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:17:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:17:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:17:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 18:17:39 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 18:17:39 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 18:17:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 18:21:01 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 18:31:01 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 18:34:16 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 18:34:16 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 18:34:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:34:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 18:34:47 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 18:34:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 18:34:47 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 18:34:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-16 18:34:51 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 18:34:51 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 18:35:03 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 18:35:03 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 18:41:01 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 18:41:20 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 18:41:20 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+INFO - 2025-02-16 18:41:20 --> Before checkAuth Cookies after setting: {"session_id":"95e4ecbdd29e9bb166b897e01d91a54178fb3898de12c2f3f0b9ae9e9be42c92"}
+WARNING - 2025-02-16 18:41:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-02-16 18:41:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\EventsController::$eventLevelsModel is deprecated in APPPATH\Controllers\EventsController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\EventsController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
