@@ -403,7 +403,7 @@ public function login()
             ], 200);
         }
     
-        log_message('info', 'Before checkAuth Cookies after setting: ' . json_encode($data));
+        //log_message('info', 'Before checkAuth Cookies after setting: ' . json_encode($data));
         $session_id = $data['session_id'];
         $session = $sessionModel->where('session_id', $session_id)->first();
     
@@ -445,35 +445,4 @@ public function login()
         ], 200);
     }
     
-
-
-/*     public function checkAuth()
-    {
-        //$session_id = $this->request->getCookie('session_id');
-        $session_id = $_COOKIE['session_id'];
-        log_message('info', 'Before checkAuth Cookies after setting: ' . json_encode($_COOKIE));
-        if (!$session_id) {
-            return $this->respond(['authenticated' => false, 'message' => 'Unauthorized access.'], 401);
-        }
-    
-        $sessionModel = new SessionsModel();
-        $session = $sessionModel->where('session_id', $session_id)->first();
-    
-        if (!$session) {
-            return $this->respond(['authenticated' => false, 'message' => 'Invalid session.'], 401);
-        }
-    
-        // Regenerate session ID for security
-        session()->regenerate();
-    
-        log_message('info', 'After checkAuth Cookies after setting: ' . json_encode($_COOKIE));
-        return $this->respond([
-            'authenticated' => true,
-            'user_id' => $session['user_id'],
-            'role_id' => $session['role_id']
-        ], 200); 
-    } */
-    
-
-
 }

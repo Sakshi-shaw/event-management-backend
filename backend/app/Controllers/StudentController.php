@@ -111,19 +111,27 @@ class StudentController extends ResourceController
     } */
 
     public function subscribe()
-{
-    // Get the email from the POST request
-    $email = $this->request->getJSON('email');
+    {
+        // Get JSON input
+        $data = $this->request->getJSON();
 
-    // Call the model function to update the subscribe column and send email
-    $result = $this->studentModel->subscribeByEmail($email);
+        // Extract email and userId
+        $email = $data->email ?? null;
+        $userId = $data->userId ?? null;
 
-    if ($result) {
-        return $this->response->setJSON(['success' => 'true', 'message' => 'Subscription successful and email sent.']);
-    } else {
-        return $this->response->setJSON(['success' => 'false', 'message' => 'Email not found, already subscribed, or email sending failed.']);
+        if (!$email || !$userId) {
+            return $this->response->setJSON(['success' => 'false', 'message' => 'Email and userId are required.'], 400);
+        }
+
+        // Call the model function to update the subscribe column and send email
+        $result = $this->studentModel->subscribeByEmail($email, $userId);
+
+        if ($result) {
+            return $this->response->setJSON(['success' => 'true', 'message' => 'Subscription successful and email sent.'], 200);
+        } else {
+            return $this->response->setJSON(['success' => 'false', 'message' => 'Email not found or Already subscribed.'], 500);
+        }
     }
-}
 
  // Forget Password: Check email existence
  public function forgetPassword()

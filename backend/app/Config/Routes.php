@@ -19,34 +19,26 @@ $routes->get('getDepartments', 'DepartmentsController::getDepartments');
 $routes->post('departments', 'DepartmentsController::getDepartmentsByDegree');
 $routes->post('insertDepartment', 'DepartmentsController::insertDepartment');
 
-
 $routes->get('degrees', 'DegreeController::getDegrees');
 $routes->post('insertDegree', 'DegreeController::insertDegree');
-
 
 $routes->get('colleges', 'CollegesController::getColleges');
 $routes->post('insertCollege', 'CollegesController::insertCollege');
 
-
 $routes->get('students', 'StudentController::index');
 $routes->get('/students/(:num)', 'StudentController::getStudentById/$1');
-
-
 
 $routes->put('updateStudent', 'StudentController::updateData');
 
 $routes->get('/teachers/(:num)', 'TeachersController::getTeacherById/$1');
 $routes->put('updateTeacher', 'TeachersController::updateData');
-
 //$routes->get('events', 'StudentController::getEvents');
-
 // Route to fetch all rooms
 $routes->get('rooms', 'RoomsController::index');
 
 $routes->get('events', 'EventsController::index');
 $routes->post('createEvent', 'EventsController::create');
 $routes->post('upload_image', 'EventsController::uploadEventImage');
-
 
 $routes->post('venues', 'EventsController::getAvailableVenues');
 $routes->get('geteventspast', 'EventsController::getPastEvents');
@@ -59,8 +51,9 @@ $routes->get('events/accepted/(:num)', 'EventsController::getAcceptedEventByRoom
 $routes->get('events/rejected/(:num)', 'EventsController::getRejectedEvents/$1');
 $routes->post('acceptRegistration', 'EventsController::updateRegistrationAccept');
 $routes->post('rejectRegistration', 'EventsController::updateRegistrationReject');
-
-
+$routes->get('events/send', 'EventsController::sendEmailAndAddEvent');
+$routes->get('events/pending/(:num)', 'EventsController::pendingEvents/$1');
+// $routes->get('autoRejectEvents', 'EventsController::autoRejectEvents');
 
 
 
@@ -71,28 +64,23 @@ $routes->get('getRegistrations', 'EventRegistrationController::getAllRegistratio
 $routes->get('registrations/student/(:num)', 'EventRegistrationController::getRegistrationsByStudent/$1');
 $routes->post('eventregistration', 'EventRegistrationController::registerEvent');
 
-
-
 $routes->post('subscribe', 'StudentController::subscribe');
 $routes->post('send-emails', 'StudentController::sendEmails');
 
-
-
-
 $routes->get('getEventLevels', 'EventLevelsController::getEventLevels');
-
 
 $routes->post('create/:event_id', 'NotificationController::createNotificationForEvent');
 $routes->get('getNotification', 'NotificationController::index');
 $routes->get('/getNotificationRequestedById/(:num)', 'NotificationController::getNotificationByRequestedBy/$1');
 $routes->put('notifications/(:segment)/hide', 'NotificationController::hideNotification/$1');
+$routes->post('/notifications/markAsRead/(:num)', 'NotificationController::markAllAsRead/$1');
+$routes->get('/notifications/sendNotificationsForRoomOwner/(:num)', 'NotificationController::sendNotificationsForRoomOwner/$1');
+$routes->post('/notifications/resetReadStatusByEventId', 'NotificationController::resetReadStatusByEventId'); 
+// $routes->get('/sendNotificationsCron', 'NotificationController::sendNotificationsCron');
+
 
 
 $routes->get('roomfacilities/(:num)', 'RoomFacilitiesController::index/$1');
-
-
-$routes->post('/notifications/markAsRead/(:num)', 'NotificationController::markAllAsRead/$1');
-
 
 
 $routes->post('forget-password', 'StudentController::forgetPassword');
@@ -100,10 +88,13 @@ $routes->post('reset-password', 'StudentController::resetPassword');
 
 
 
-
-//google calender
-// app/Config/Routes.php
-
-$routes->get('events/send', 'EventsController::sendEmailAndAddEvent');
+$routes->post('insert-winners', 'WinnersController::insertWinners');
+$routes->get('getWinners/(:num)', 'WinnersController::getWinners/$1');
 
 
+
+
+
+$routes->get('sendNotificationsCron', 'CronController::sendNotificationsCron');
+
+$routes->get('autoRejectEvents', 'CronController::autoRejectEvents');

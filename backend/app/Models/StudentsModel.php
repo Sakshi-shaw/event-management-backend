@@ -4,13 +4,16 @@ namespace App\Models;
 
 use CodeIgniter\Model;
 
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
 class StudentsModel extends Model
 {
     protected $table = 'students';
     protected $primaryKey = 'id';
     protected $allowedFields = [
         'firstName', 'lastName','student_id', 'email', 'password', 'phone', 
-        'gender', 'dept_id', 'skills', 'interest', 'college_id'
+        'gender', 'dept_id', 'skills', 'interest', 'college_id','subscribe'
     ];
 
     public function getAllStudents()
@@ -48,25 +51,64 @@ class StudentsModel extends Model
         return $query->getRowArray(); // Return a single row as an associative array
     }
 
- /*    public function subscribeByEmail($email)
+    public function subscribeByEmail($email, $userId)
     {
         $db = \Config\Database::connect();
-        $builder = $db->table('students');
+        $builder = $db->table($this->table);
     
-        // Update the 'subscribe' attribute to 1 where the email matches
-        $builder->set('subscribe', 1);
-        $builder->where('email', $email);
-        $builder->update();
-    
-        // Check if the row was updated
-        if ($db->affectedRows() > 0) {
-            return true; // Subscription successful
-        } else {
-            return false; // Email not found or already subscribed
-        }
-    } */
+        // Fetch student record
+        $student = $builder->where('email', $email)->where('id', $userId)->get()->getRowArray();
 
-    public function subscribeByEmail($email)
+        if (!$student) {
+            return false; // Email and userId not found
+        }
+
+        // Check if already subscribed
+        if ($student['subscribe'] == 1) {
+            return false; // Already subscribed
+        }
+
+        // Perform update
+        $builder->where('id', $student['id']);
+        $builder->update(['subscribe' => 1]);
+
+        // Debugging: Check if the row was affected
+        if ($db->affectedRows() > 0) {
+             $this->sendSubscriptionEmail($email);
+             return true;
+        } else {
+            return false; // Debugging message
+        }
+
+    }
+
+
+    private function sendSubscriptionEmail($email)
+    {
+        $mail = new PHPMailer(true);
+
+        try {
+            $mail->isSMTP();
+            $mail->Host = 'smtp.gmail.com'; // Replace with your SMTP server
+            $mail->SMTPAuth = true;
+            $mail->Username = 'sakshishaw1375@gmail.com'; // Your email
+            $mail->Password = 'eekx rmku xarr hkab'; // Your password
+            $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
+            $mail->Port = 587;
+
+            $mail->setFrom('sakshishaw1375@gmail.com', 'Campus Connect');
+            $mail->addAddress($email);
+            $mail->isHTML(true);
+            $mail->Subject = 'Subscription Confirmation';
+            $mail->Body = '<p>Thank you for subscribing!</p>';
+
+            return $mail->send();
+        } catch (Exception $e) {
+            return false; // Email sending failed
+        }
+    }
+
+/*     public function subscribeByEmail($email)
     {
         $db = \Config\Database::connect();
         $builder = $db->table('students');
@@ -109,7 +151,7 @@ class StudentsModel extends Model
         }
     }
     
-
+ */
 
 
 

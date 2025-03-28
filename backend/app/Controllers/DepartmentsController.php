@@ -20,7 +20,7 @@ class DepartmentsController extends ResourceController
         // Perform the database query directly in the controller
         $builder = $this->db->table('departments');
         $departments = $builder->get()->getResult();
-
+ 
         if ($departments) {
             return $this->respond(['status' => 'success', 'data' => $departments], 200);
         } else {
